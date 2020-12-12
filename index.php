@@ -16,5 +16,5 @@ if (file_exists('pages/' . $page . '.php')) {
     require_once 'pages/404.php';
 }
 
-$content = ob_get_contents();
+$content = ob_get_clean();
 require_once 'pages/template.php';
