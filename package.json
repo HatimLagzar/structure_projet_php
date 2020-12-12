@@ -1,0 +1,12 @@
+{
+  "name": "structure_projet_php",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HatimLagzar/structure_projet_php.git",
+  "author": "Hatim Lagzar <lhatimdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
